@@ -33,8 +33,5 @@ Software engineer focused on systems programming, embedded firmware, and low-lev
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flame25&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flame25&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Flame25&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Flame25&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Flame25&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Flame25&langs_count=4&theme=dark_github)
